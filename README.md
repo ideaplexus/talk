@@ -12,9 +12,6 @@ It is built using WebRTC, so all your video chat is peer-to-peer. Group video ca
 
 Clone the repo locally, or extract the contents of the source code.
 
-```
-git clone https://github.com/vasanthv/talk.git
-```
 
 `cd talk` and then install dependencies
 
